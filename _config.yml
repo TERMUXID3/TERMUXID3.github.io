@@ -1,26 +1,19 @@
-# SITE CONFIGURATION
-title: Njank # your site title
-author: Njank # You :P
+title: Njank
+author: Njank
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://n74nk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "https://n74nk.github.io/" 
 
-# SEO PLUGIN
 social:
   name: Njank
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://www.facebook.com/njnk.xnxx
+    - https://github.com/N74NK
 
-# THEME SETTINGS
-navigation: # Navigation links
+navigation:
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
@@ -30,11 +23,11 @@ tagline: >
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: dindacgr2@gmail.com # email for form submission
 
 twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+github_username:  N74NK # replace with your_github_username or comment to remove link from footer
+instagram_username: n74nk420 # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
