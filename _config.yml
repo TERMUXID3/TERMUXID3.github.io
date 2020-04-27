@@ -1,13 +1,13 @@
-#google_analytics: UA-NNNNNNNN-N
+# google_analytics: UA-NNNNNNNN-N
+# listen_for_clients_preferred_style: true # true or false (default)
 
 header_pages:
   - index.md
   - about.md
 
-footer: 'Developed by <a href="https://github.com/N74NK/">Njank</a>.'
+footer: 'Developed by <a href="https://github.com/N74NK/">Njank</a>'
 
-style: dark # (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+style: dark
 
 plugins:
   - jekyll-seo-tag
