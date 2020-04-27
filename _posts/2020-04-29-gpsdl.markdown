@@ -1,0 +1,23 @@
+---
+layout: post
+title: "GPSDL - PlayStore Apk File Downloader"
+date: 2020-04-28 12:00:00 +0100
+categories: termux
+---
+
+# Apa itu GPSDL
+
+Gpsdl adalah tool untuk download file apk dari playstore menggunakan termux.
+Selain penggunaan nya yang mudah, tool ini juga dibuat oleh orang ganteng yaitu gua sendiri mwehehe :v
+
+
+# Instalasi
+
+```
+$ pkg update && pkg upgrade
+$ pkg install git python
+$ pip install bs4 requests
+$ git clone https://github.com/N74NK/gpsdl
+$ cd gpsdl
+$ python main.py
+```
