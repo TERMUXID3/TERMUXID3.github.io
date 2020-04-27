@@ -5,13 +5,13 @@ date: 2020-04-28 12:00:00 +0100
 categories: termux
 ---
 
-# Google PlayStore APK File Downloader
+# GOOGLE PLAYSTORE APK FILE DOWNLOADER
 
 Ini adalah tool Termux yang fungsinya untuk download file apk dari playstore.
 Selain penggunaan nya yang mudah, tool ini juga dibuat oleh orang ganteng yaitu gua sendiri awokawok :v
 
 
-# Instalasi
+# INSTALASI
 
 ```
 $ pkg update && pkg upgrade
@@ -23,10 +23,14 @@ $ python main.py <url>
 ```
 
 
-# Penggunaan
+# PENGGUNAAN
 
 Untuk penggunaan nya kalian tinggal copy url aplikasi dari playstore yang ingin di download file apk nya.
 Contohnya seperti berikut
 ```
 $ python main.py https://play.google.com/store/apps/details?id=com.termux
 ```
+
+
+# PENAMPAKAN
+![GPSDL-Screenshot](https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/Screenshot_2020-04-01-19-26-08.png)
