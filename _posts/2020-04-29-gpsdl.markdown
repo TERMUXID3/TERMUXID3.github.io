@@ -30,4 +30,3 @@ Contohnya seperti berikut
 ```
 $ python main.py https://play.google.com/store/apps/details?id=com.termux
 ```
-Nah mungkin 1 contoh aja kamu bakal faham.
