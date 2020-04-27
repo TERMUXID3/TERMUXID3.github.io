@@ -12,4 +12,5 @@ Mempersembahkan, page statis buatan gua sendiri. Niatnya pengen sharing tutorial
 ```
 $ pkg install
 $ pkg update && pkg upgrade
+Mempersembahkan, page statis buatan gua sendiri. Niatnya pengen sharing tutorial seputar termux, semoga web statis ini bisa membantu kalian untuk belajar termux.
 ```
