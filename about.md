@@ -15,15 +15,17 @@ Ini adalah situs statis buatan saya sendiri, gua harap dengan dibuatnya situs st
 - [Youtube](https://youtube.com/NjankSoekamti)
 - [Github](https://github.com/N74NK)
 
+
 ```
-
- ____   ____   ____  ____   __  _      __ __  __ __  ______  ____ 
-|    \ |    | /    T|    \ |  l/ ]    |  T  T|  T  T|      Tl    j
-|  _  Yl__  |Y  o  ||  _  Y|  ' /     |  |  ||  |  ||      | |  T 
-|  |  |__j  ||     ||  |  ||    \     |  ~  ||  |  |l_j  l_j |  | 
-|  |  /  |  ||  _  ||  |  ||     Y    l___, ||  :  |  |  |   |  | 
-|  |  \  `  ||  |  ||  |  ||  .  |    |     !l     |  |  |   j  l 
-l__j__j\____jl__j__jl__j__jl__j\_j    l____/  \__,_j  l__j  |____j
-                                                                  
-
+888b    888  d8b                   888      
+8888b   888  Y8P                   888      
+88888b  888                        888      
+888Y88b 888 8888  8888b.  88888b.  888  888 
+888 Y88b888 "888     "88b 888 "88b 888 .88P 
+888  Y88888  888 .d888888 888  888 888888K  
+888   Y8888  888 888  888 888  888 888 "88b 
+888    Y888  888 "Y888888 888  888 888  888 
+             888                            
+            d88P                            
+          888P" 
 ```
