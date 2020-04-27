@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# N74NK
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Gua cuma Depelover yg malas dan gapunya Skill.
