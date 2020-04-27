@@ -16,10 +16,7 @@ Ini adalah situs statis buatan saya sendiri, gua harap dengan dibuatnya situs st
 - [Github](https://github.com/N74NK)
 
 ```
-
- _____    __ _____ _____ _____ 
-|   | |__|  |  _  |   | |  |  |
-| | | |  |  |     | | | |    -|
-|_|___|_____|__|__|_|___|__|__|
-                               
+╔╗╔ ┬┌─┐┌┐┌┬┌─  ╦ ╦┬ ┬┌┬┐┬
+║║║ │├─┤│││├┴┐  ╚╦╝│ │ │ │
+╝╚╝└┘┴ ┴┘└┘┴ ┴   ╩ └─┘ ┴ ┴
 ```
