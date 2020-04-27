@@ -13,7 +13,7 @@ Selain penggunaan nya yang mudah, tool ini juga dibuat oleh orang ganteng yaitu 
 
 # INSTALASI
 
-```
+```php
 $ pkg update && pkg upgrade
 $ pkg install git python
 $ pip install bs4 requests
@@ -27,10 +27,10 @@ $ python main.py <url>
 
 Untuk penggunaan nya kalian tinggal copy url aplikasi dari playstore yang ingin di download file apk nya.
 Contohnya seperti berikut
-```
+```php
 $ python main.py https://play.google.com/store/apps/details?id=com.termux
 ```
 
 
 # PENAMPAKAN
-![GPSDL-Screenshot](https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/Screenshot_2020-04-01-19-26-08.png)
+<img style="width:100%;" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/Screenshot_2020-04-01-19-26-08.png" />
