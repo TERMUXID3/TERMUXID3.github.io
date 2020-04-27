@@ -19,5 +19,15 @@ $ pkg install git python
 $ pip install bs4 requests
 $ git clone https://github.com/N74NK/gpsdl
 $ cd gpsdl
-$ python main.py
+$ python main.py <url>
 ```
+
+
+# Penggunaan
+
+Untuk penggunaan nya kalian tinggal copy url aplikasi dari playstore yang ingin di download file apk nya.
+Contohnya seperti berikut
+```
+$ python main.py https://play.google.com/store/apps/details?id=com.termux
+```
+Nah mungkin 1 contoh aja kamu bakal faham.
