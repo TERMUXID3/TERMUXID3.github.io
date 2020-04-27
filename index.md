@@ -1,9 +1,9 @@
 ---
-title: /n74nk
+title: /
 layout: home
 permalink: /
 ---
 
-# N74NK
+# N74NK YUTI
 
-Gua cuma Developer noob, jan dibacotin yee
+Bukan heker, cuma Developer noob tanpa skill
