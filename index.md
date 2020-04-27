@@ -1,9 +1,9 @@
 ---
-title: /
+title: /root
 layout: home
 permalink: /
 ---
 
 # N74NK
 
-Gua cuma Depelover yg malas dan gapunya Skill.
+Developer malas yang mimpinya pengen sukses.
