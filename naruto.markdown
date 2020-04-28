@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Naruto Shippuden Full Episode"
-permalink: /naruto/
 ---
 
 # Nonton Naruto Shippuden Subtitle Indonesia
