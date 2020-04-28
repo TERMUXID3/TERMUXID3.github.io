@@ -13,4 +13,4 @@ Daftar Episode:
 
 <hr />
 
-Kalo bukan karena [Diah](https://facebook.com/diia.vita) gua gabakalan bikin ginian. Lafyu diahh
+Kalo bukan karena [Diah](https://facebook.com/diia.vita) gua gabakalan bikin ginian. Lafyu diah:*
