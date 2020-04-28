@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Naruto eps 1-500 Subtitle Indonesia"
+title: "Naruto Shippuden Full Episode"
 permalink: /naruto/
 ---
 
