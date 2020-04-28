@@ -1,0 +1,8 @@
+---
+layout: post
+title: "XSStrike - Vulnerability Scanner"
+date: 2020-04-28 12:00:00 +0100
+categories: termux
+---
+
+XSStrike adalah alat open source yang berfungsi untuk mencari kerentanan jenis XSS (Cross-site Scripting) pada suatu website. Selain memiliki kecepatan crawling yang cepat, XSStrike juga memiliki banyak sekali fitur dan ini merupakan keunggulan tersendiri bagi XSStrike.
