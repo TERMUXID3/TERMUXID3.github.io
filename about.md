@@ -6,7 +6,7 @@ permalink: /about/
 
 # TENTANG WEBSITE INI
 
-Ini adalah situs statis buatan saya sendiri, gua harap dengan dibuatnya situs statis ini bisa membantu kalian belajar termux.
+Ini adalah situs statis buatan gua sendiri, dibuat saat gabut gegara doi jarang bales chat gua, sad banget emang yee bngsd. Gua harap dengan dibuatnya situs statis ini bisa membantu kalian belajar termux.
 
 
 # CARI GUA DI
