@@ -10,7 +10,7 @@ permalink: /profile/
     .fa {
       padding: 5px;
       font-size: 50px;
-      width: 10px;
+      width: 5px;
       text-align: center;
       text-decoration: none;
       margin: 5px 2px;
@@ -23,7 +23,7 @@ permalink: /profile/
   <img style="border-radius: 8px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
 
   <div align="center">
-    <a class="fa fa-instagram" href="https://instagram.com/n74nk420"></a>
+    <a class="fa fa-instagram fa-4x" href="https://instagram.com/n74nk420"></a>
     <a class="fa fa-facebook" href="https://facebook.com/njnk.xnxx"></a>
     <a class="fa fa-youtube" href="https://youtube.com/NjankSoekamti"></a>
     <a class="fa fa-github" href="https://github.com/N74NK"></a>
