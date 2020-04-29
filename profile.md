@@ -12,7 +12,6 @@ permalink: /profile/
 
 <h1>MY SKILLS</h1>
 <div style="border:1px solid #ccc;padding:10px;">
-
   <h1>HTML</h1>
   <div class="xborder">
     <div style="height:15px;width:20%" class="w3-grey"><span style="padding-left:5px;">20%</span></div>
