@@ -15,17 +15,17 @@ permalink: /profile/
 
   <h1>HTML</h1>
   <div class="xborder">
-    <div style="height:15px;width:10%" class="w3-grey"><span style="padding-left:5px;">10%</span></div>
+    <div style="height:15px;width:20%" class="w3-grey"><span style="padding-left:5px;">20%</span></div>
   </div>
 
   <h1>CSS</h1>
   <div class="xborder">
-    <div style="height:15px;width:10%" class="w3-grey">10%</div>
+    <div style="height:15px;width:20%" class="w3-grey"><span style="padding-left:5px;">20%</span></div>
   </div>
 
   <h1>JAVAACRIPT</h1>
   <div class="xborder">
-    <div style="height:15px;width:10%" class="w3-grey">10%</div>
+    <div style="height:15px;width:20%" class="w3-grey"><span style="padding-left:5px;">20%</span></div>
   </div>
 
 </div>
