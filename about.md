@@ -13,19 +13,3 @@ Ini adalah situs statis buatan gua sendiri, dibuat saat gabut gegara doi jarang 
 <a href="https://youtube.com/NjankSoekamti"><img src="https://www.iconsdb.com/icons/preview/white/youtube-4-xxl.png" style="width:20px;" /></a>
 <a href="https://github.com/N74NK"><img src="https://www.iconsdb.com/icons/preview/white/github-9-xxl.png" style="width:20px;" /></a>
 </div>
-
-```
-
-
-888b    888  d8b                   888      
-8888b   888  Y8P                   888      
-88888b  888                        888      
-888Y88b 888 8888  8888b.  88888b.  888  888 
-888 Y88b888 "888     "88b 888 "88b 888 .88P 
-888  Y88888  888 .d888888 888  888 888888K  
-888   Y8888  888 888  888 888  888 888 "88b 
-888    Y888  888 "Y888888 888  888 888  888 
-             888                            
-            d88P                            
-          888P" 
-```
