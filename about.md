@@ -9,9 +9,9 @@ Ini adalah situs statis buatan gua sendiri, dibuat saat gabut gegara doi jarang 
 
 <div align="center"><h1>Get in Touch</h1>
 <a href="https://instagram.com/n74nk420"><img src="https://www.iconsdb.com/icons/preview/white/instagram-4-xxl.png" width="30" /></a>
-- [Facebook](https://facebook.com/njnk.xnxx)
-- [Youtube](https://youtube.com/NjankSoekamti)
-- [Github](https://github.com/N74NK)
+<a href="https://facebook.com/njnk.xnxx"><img src="https://www.iconsdb.com/icons/preview/white/facebook-4-xxl.png" width="30" /></a>
+<a href="https://youtube.com/NjankSoekamti"><img src="https://www.iconsdb.com/icons/preview/white/youtube-4-xxl.png" width="30" /></a>
+<a href="https://github.com/N74NK"><img src="https://www.iconsdb.com/icons/preview/white/github-9-xxl.png" width="30" /></a>
 </div>
 
 ```
