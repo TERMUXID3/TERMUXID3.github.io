@@ -12,7 +12,7 @@ permalink: /profile/
 
   <h1>HTML</h1>
   <div class="xborder">
-    <div style="height:20px;width:10%" class="w3-grey"></div>
+    <div style="height:15px;width:10%" class="w3-grey"></div>
     10%
   </div>
 
