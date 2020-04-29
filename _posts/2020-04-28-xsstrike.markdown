@@ -35,10 +35,10 @@ $ python xsstrike.py -h
 
 # PREVIEW
 Perbesar untuk memperjelas gambar.
-> DOM XSS
+> # DOM XSS
 > ![dom xss](https://image.ibb.co/bQaQ5L/Screenshot-2018-11-19-13-48-19.png)
 
-> Reflected XSS
+> # Reflected XSS
 > ![multi xss](https://image.ibb.co/gJogUf/Screenshot-2018-11-19-14-19-36.png)
 
 > Crawling
