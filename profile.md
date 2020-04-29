@@ -8,12 +8,11 @@ permalink: /profile/
 
   <style>
     .fa {
-      padding: 5px;
+      padding: 4px;
       font-size: 50px;
       width: 5px;
       text-align: center;
       text-decoration: none;
-      margin: 5px 2px;
       color: white;
       background: black;
     }
