@@ -6,10 +6,11 @@ permalink: /profile/
 <div>
   <style>
     .w3-grey,.w3-hover-grey:hover,.w3-gray,.w3-hover-gray:hover{text-center:left!important;color:#fff!important;background-color:#9e9e9e!important}
-    .xborder{border:1px solid #ccc!important}
+    .xborder{border-radius:2px;border:1px solid #ccc!important}
   </style>
   <img style="border-radius: 8px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
 
+<h1>MY SKILLS</h1>
 <div style="border:1px solid #ccc;padding:10px;">
 
   <h1>HTML</h1>
