@@ -8,6 +8,9 @@ categories: termux
 **OSI.IG** adalah tool Open-source Intelligence Instagram yang fungsinya untuk mendapat berbagai informasi dari akun Instagram yang biasanya tidak akan Kamu dapatkan hanya dengan melihat profil mereka.
 
 
+![banner](https://raw.githubusercontent.com/th3unkn0n/OSI.IG/master/.lib/20191103_233944.jpg)
+
+
 ## Info dari Profil
 
 - Username
