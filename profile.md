@@ -19,7 +19,7 @@ permalink: /profile/
   </style>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <img style="border-radius: 50px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
+  <img style="border: 1px solid #fff; border-radius: 100px 5px / 120px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
 
   <div align="center">
     <h1>GET IN TOUCH</h1>
