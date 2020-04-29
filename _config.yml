@@ -4,6 +4,7 @@
 header_pages:
   - index.md
   - about.md
+  - profile.md
 
 footer: 'Developed by <a href="https://github.com/N74NK/">Njank</a>'
 
