@@ -50,3 +50,10 @@ $ cd osi.ig
 $ chmod +x install.sh
 $ ./install.sh
 ```
+
+
+# Penggunaan
+
+```
+$ python main.py -u username
+```
