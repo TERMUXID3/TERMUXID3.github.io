@@ -51,6 +51,6 @@ $ ./install.sh
 
 # Penggunaan
 
-```
+```bash
 $ python main.py -u username
 ```
