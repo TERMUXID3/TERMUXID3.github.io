@@ -7,7 +7,7 @@ permalink: /about/
 # TENTANG WEBSITE INI
 Ini adalah situs statis buatan gua sendiri, dibuat saat gabut gegara doi jarang bales chat gua, sad banget emang yee bngsd. Gua harap dengan dibuatnya situs statis ini bisa membantu kalian belajar termux.
 
-<div align="center"><h1>Get in Touch</h1>
+<div align="center"><h1>TETAP TERHUBUNG</h1>
 <a href="https://instagram.com/n74nk420"><img src="https://www.iconsdb.com/icons/preview/white/instagram-4-xxl.png" style="width:30px;" /></a>
 <a href="https://facebook.com/njnk.xnxx"><img src="https://www.iconsdb.com/icons/preview/white/facebook-4-xxl.png" style="width:30px;" /></a>
 <a href="https://youtube.com/NjankSoekamti"><img src="https://www.iconsdb.com/icons/preview/white/youtube-4-xxl.png" style="width:30px;" /></a>
