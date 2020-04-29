@@ -10,6 +10,8 @@ permalink: /profile/
   </style>
   <img style="border-radius: 8px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
 
+<div style="border:1px solid #ccc;padding:10px;">
+
   <h1>HTML</h1>
   <div class="xborder">
     <div style="height:15px;width:10%" class="w3-grey"><span style="padding-left:5px;">10%</span></div>
@@ -24,5 +26,7 @@ permalink: /profile/
   <div class="xborder">
     <div style="height:15px;width:10%" class="w3-grey">10%</div>
   </div>
+
+</div>
 
 <div>
