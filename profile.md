@@ -8,9 +8,9 @@ permalink: /profile/
 
   <style>
     .fa {
-      padding: 20px;
+      padding: 5px;
       font-size: 30px;
-      width: 50px;
+      width: 5px;
       text-align: center;
       text-decoration: none;
       margin: 5px 2px;
