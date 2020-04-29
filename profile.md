@@ -9,8 +9,10 @@ permalink: /profile/
     .xborder{border:1px solid #ccc!important}
   </style>
   <img style="border-radius: 8px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
-  Html
+
+  <h1>HTML</h1>
   <div class="xborder">
-    <div style="height:10px;width:10%" class="w3-grey"></div>
+    <div style="height:10px;width:10%" class="w3-grey">10%</div>
   </div>
+
 <div>
