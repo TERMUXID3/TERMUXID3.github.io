@@ -42,3 +42,11 @@ Tool ini dibuat oleh seorang programer dengan nick [th3unkn0n](https://github.co
 
 
 # Instalasi
+
+```bash
+$ pkg install git
+$ git clone https://github.com/th3unkn0n/osi.ig.git 
+$ cd osi.ig
+$ chmod +x install.sh
+$ ./install.sh
+```
