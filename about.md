@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 # TENTANG WEBSITE INI
-Ini adalah situs statis buatan gua sendiri, dibuat saat gabut gegara doi jarang bales chat gua, sad banget emang yee bngsd. Gua harap dengan dibuatnya situs statis ini bisa membantu kalian belajar termux.
+Ini adalah situs statis buatan gua sendiri, dibuat saat gabut gegara doi jarang bales chat gua, sad banget emang yee bngsd.
+Ini merupakan situs dokumentasi tool termux, mungkin bisa membantu kalian yang suka explore tool tapi males ngubek Github.
 
 <div align="center"><br />
 <a href="https://instagram.com/n74nk420"><img src="https://www.iconsdb.com/icons/preview/white/instagram-4-xxl.png" style="width:30px;" /></a>
