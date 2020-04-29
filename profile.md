@@ -8,7 +8,7 @@ permalink: /profile/
 
   <style>
     .fa {
-      padding: 6px;
+      padding: 4px;
       font-size: 50px;
       width: 6px;
       text-align: center;
