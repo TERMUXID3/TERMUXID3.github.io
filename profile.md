@@ -19,8 +19,8 @@ permalink: /profile/
   </style>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <img style="border: 1px solid #fff; border-radius: 100px 5px / 120px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
-
+  <img style="border: 2px solid #fff; border-radius: 100px 5px / 120px;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
+  Nama gua <b>Njank</b>, asal dari Subang kalo mau ngopi bareng langsung gasskan aja. Gua orang yang gabut dan suka mempelajari sesuatu yang baru.
   <div align="center">
     <h1>CONNECT WITH ME</h1>
     <a class="fa fa-instagram" href="https://instagram.com/n74nk420"></a>
