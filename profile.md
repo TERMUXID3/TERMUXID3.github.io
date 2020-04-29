@@ -15,4 +15,14 @@ permalink: /profile/
     <div style="height:15px;width:10%" class="w3-grey">10%</div>
   </div>
 
+  <h1>CSS</h1>
+  <div class="xborder">
+    <div style="height:15px;width:10%" class="w3-grey">10%</div>
+  </div>
+
+  <h1>JAVAACRIPT</h1>
+  <div class="xborder">
+    <div style="height:15px;width:10%" class="w3-grey">10%</div>
+  </div>
+
 <div>
