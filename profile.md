@@ -8,9 +8,9 @@ permalink: /profile/
 
   <style>
     .fa {
-      padding: 4px;
+      padding: 6px;
       font-size: 50px;
-      width: 5px;
+      width: 6px;
       text-align: center;
       text-decoration: none;
       color: white;
@@ -22,7 +22,7 @@ permalink: /profile/
   <img style="border: solid 2px white; border-radius: 50%;" alt="Aing dan bebeb" src="https://raw.githubusercontent.com/N74NK/N74NK.github.io/master/_images/1585582795-picsay.jpg" />
 
   <div align="center">
-    <h1>TETAP TERHUBUNG</h1>
+    <h1>GET IN TOUCH</h1>
     <a class="fa fa-instagram" href="https://instagram.com/n74nk420"></a>
     <a class="fa fa-facebook" href="https://facebook.com/njnk.xnxx"></a>
     <a class="fa fa-youtube" href="https://youtube.com/NjankSoekamti"></a>
