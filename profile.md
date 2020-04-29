@@ -10,7 +10,7 @@ permalink: /profile/
     .fa {
       padding: 4px;
       font-size: 50px;
-      width: 6px;
+      width: 4px;
       text-align: center;
       text-decoration: none;
       color: white;
