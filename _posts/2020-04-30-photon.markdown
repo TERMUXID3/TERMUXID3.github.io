@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Photon: Fastest Crawler for OSINT"
+title: "Photon: Fastest Crawler for Recon"
 date: 2020-04-30 12:00:00 +0100
 categories: termux
 ---
 
-P
+**Photon** adalah web crawler cepat, dirancang untuk pengintaian, yang dapat mengekstrak URL, file, intel & endpoints dari target.
+**Photon** juga memiliki Mode Ninja, sehingga kamu bisa menggunakan lebih dari 100 thread dan semuanya akan berjalan lancar.
+
