@@ -7,4 +7,4 @@ categories: termux
 
 **Photon** adalah web crawler cepat, dirancang untuk pengintaian, yang dapat mengekstrak URL, file, intel & endpoints dari target.
 **Photon** juga memiliki Mode Ninja, sehingga kamu bisa menggunakan lebih dari 100 thread dan semuanya akan berjalan lancar.
-
+Selain itu, tool ini juga memiliki manajemen Threads yang cerdas dan logika yang disempurnakan yang mampu memberi kamu kinerja yang sangat tinggi.
