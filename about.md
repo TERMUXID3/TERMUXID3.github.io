@@ -11,9 +11,9 @@ Ini merupakan situs dokumentasi tool termux, mungkin bisa membantu kalian yang s
 <div>
   <style>
     .fa {
-      padding: 6px;
+      padding: 4px;
       font-size: 50px;
-      width: 6px;
+      width: 4px;
       text-align: center;
       text-decoration: none;
       color: white;
@@ -21,7 +21,8 @@ Ini merupakan situs dokumentasi tool termux, mungkin bisa membantu kalian yang s
     }
   </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <b>CARI GUA DI: </b>
+  <br />
+  <b>CARI GUA: </b>
   <a class="fa fa-instagram" href="https://instagram.com/n74nk420"></a>
   <a class="fa fa-facebook" href="https://facebook.com/njnk.xnxx"></a>
   <a class="fa fa-youtube" href="https://youtube.com/NjankSoekamti"></a>
